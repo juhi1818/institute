@@ -1,6 +1,6 @@
-**Project Description: Educational Management System (EMS)**
+**Project Description: Institute Management System (EMS)**
 Overview
-The Educational Management System (EMS) is a comprehensive web application designed to facilitate the management of educational institutions. This system aims to streamline administrative processes, enhance student engagement, and improve communication between educators and students. By leveraging modern technology, the EMS will serve as a centralized platform for managing user data, academic content, and assessments.
+The Institute  Management System (EMS) is a comprehensive web application designed to facilitate the management of educational institutions. This system aims to streamline administrative processes, enhance student engagement, and improve communication between educators and students. By leveraging modern technology, the EMS will serve as a centralized platform for managing user data, academic content, and assessments.
 
 Key Stakeholders
 Administrators: Responsible for overall system management, user assignments, and maintaining data integrity. Admins will have access to all functionalities, including user management and reporting.
