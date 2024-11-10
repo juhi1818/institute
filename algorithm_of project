@@ -1,0 +1,33 @@
+1. Login System Algorithm
+Step 1: User Input
+Prompt the user to enter a username and password.
+Step 2: Validate User
+Check if the entered username and password match any record in the user database.
+If valid, proceed to Step 3.
+If invalid, display an error message and ask the user to re-enter the details.
+Step 3: Role Verification
+After a successful login, check the user's role:
+If Admin, redirect to the Admin Dashboard.
+If Employee, redirect to the Employee Dashboard.
+If Student, redirect to the Student Dashboard.
+Step 4: End
+Once the user is redirected to the corresponding dashboard, the login process ends.
+2. Admin Adding Student Algorithm
+Step 1: Input Student Details
+Prompt the Admin to enter the student name and other required details (like student ID, etc.).
+Step 2: Validate Input
+Check if the entered details are correct and complete.
+If valid, proceed to Step 3.
+If invalid, display an error message and ask the Admin to re-enter the details.
+Step 3: Save Student Details
+Store the student information in the system (this could be local storage or a database).
+Step 4: Confirmation
+Show a confirmation message like "Student Added Successfully."
+Step 5: End
+The process ends after the confirmation.
+Summary of Flowchart and Algorithm
+Flowchart:
+The flowchart visually maps out the step-by-step process of key functions like logging in, checking roles, and adding a student to the system. This flowchart helps in visualizing the decision-making process and the path a user follows based on different conditions.
+
+Algorithm:
+The algorithm provides a detailed, sequential breakdown of the processes involved in your project. It defines the exact steps required to achieve specific functionalities (like login validation and student addition), which is essential for software development and coding implementation.
